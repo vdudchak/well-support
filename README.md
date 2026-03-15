@@ -1,4 +1,4 @@
 # well-support
-Support repo for Well Tracker app
+Support repo for Well Tracker app.
 
-Create an issue if you have encountered any problems while using the Well tracker app.
+Encountered a problem while using the Well Tracker app? We'd love to hear about it! Open an issue and describe what happened — your feedback helps us improve!
